@@ -1,1 +1,1 @@
-Mi nombre es Antoni y soy diseñador-desarrollador **FronEnd**, con conocimientos de **BackEnd**, **Bases de Datos** y desarrollo de **aplicaciones móviles** para Android. Actualmente me encuentro en el proceso de ser un desarrollador **FullStack**.
+Diseñador y desarrollador **Fron-End**, con conocimientos de **Back-End**, manejo de **Base de Datos** y desarrollo de **aplicaciones móviles** para Android.
